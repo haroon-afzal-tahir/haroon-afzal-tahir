@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haroon-afzal-tahir&label=Profile%20views&color=0e75b6&style=flat" alt="haroon-afzal-tahir" /> </p>
 
-- 🔭 I’m currently working on **EventX**
+- 🔭 I’m currently working on **EventX** - Android Application where people can assign their tasks to anyone around the world
 
 - 👯 I’m looking to collaborate on **Svelte.js**
 
