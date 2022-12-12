@@ -25,6 +25,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haroon-afzal-tahir&show_icons=true&locale=en&layout=compact" alt="haroon-afzal-tahir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haroon-afzal-tahir&show_icons=true&locale=en" alt="haroon-afzal-tahir" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haroon-afzal-tahir&" alt="haroon-afzal-tahir" /></p>
