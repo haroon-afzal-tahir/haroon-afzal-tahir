@@ -1,7 +1,10 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=haroon-afzal-tahir&&style=flat-square" align="center" />
+</div>
 
 ### <div align="center">I'm Haroon, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
@@ -100,11 +103,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=haroon-afzal-tahir&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=haroon-afzal-tahir&&style=flat-square" align="center" />
-</div>  
+<br/>
 
 <br />
 
