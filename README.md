@@ -21,7 +21,7 @@
 - ⚡ Fun fact: I use tabs over spaces
 
 
-- 🖥️ For more information, visit [My Portfolio](https://dreamy-fudge-47db49.netlify.app/)
+- 🖥️ For more information, visit [my portfolio](https://dreamy-fudge-47db49.netlify.app/)
   
 
 <br/>  
