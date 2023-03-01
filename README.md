@@ -18,7 +18,10 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
+
+
+- 🖥️ For more information, visit [My Portfolio](https://dreamy-fudge-47db49.netlify.app/)
   
 
 <br/>  
