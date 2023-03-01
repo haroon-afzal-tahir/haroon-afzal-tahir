@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on EventX - React Native Project  
   
 
-- 🌱 I’m currently learning Unity Engine 5 and Svelte  
+- 🌱 I’m currently learning Unreal Engine 5  
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
