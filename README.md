@@ -9,20 +9,10 @@
 ### <div align="center">I'm Haroon, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on EventX - React Native Project  
+- ❓ Ask me about anything related to Full Stack Engineering. I'm your guy
   
 
-- 🌱 I’m currently learning Unreal Engine 5  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces
-
-
-- 🖥️ For more information, visit [my portfolio](https://dreamy-fudge-47db49.netlify.app/)
-  
+- ⚡ Fun fact: I use tabs over spaces  
 
 <br/>  
 
